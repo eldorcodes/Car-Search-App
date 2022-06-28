@@ -1,0 +1,14 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "My first website",
+  "main": "server.js",
+  "scripts": {
+   "start": "node server"
+  },
+  "author": "Eldor Togaymurotov",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
